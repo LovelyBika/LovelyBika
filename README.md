@@ -34,11 +34,8 @@
 
 ### 🛠️ Software & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Visual Code Editor](https://img.shields.io/badge/Visual_Code_Editor-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Turbo C++](https://img.shields.io/badge/Turbo_C%2B%2B-0072B8?style=for-the-badge&logo=cplusplus&logoColor=white)  ![VIM](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)  ![Nano](https://img.shields.io/badge/Nano-2E8B00?style=for-the-badge&logo=gnu&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
 
 <br><br>
 
