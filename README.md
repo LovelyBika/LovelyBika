@@ -13,7 +13,7 @@
 	<a href="https://github.com/LovelyBika?tab=followers"><img src="https://img.shields.io/github/followers/LovelyBika?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-## 💻 Technologies 
+### 💻 Technologies 
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,7 +31,7 @@
   <br><br>
 </div>
 
- ## 🛠️ Software & Tools
+ ### 🛠️ Software & Tools
  
 <p>
  &emsp;
@@ -52,12 +52,18 @@
     
     
 </p>
-
-
 <br><br>
 
-## 🚥 Activity
 
+### 🗃️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+
+
+
+### 🚥 Activity
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
@@ -94,7 +100,7 @@
 
 <br>
 
-## 😎 Connect with me
+### 😎 Connect with me
 <p align="left">
   
 <a href="https://www.linkedin.com/in/lovely-b2133619a" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LovelyBika" height="30" width="40" /></a>
