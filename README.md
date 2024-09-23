@@ -8,7 +8,7 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/lovely-b2133619a)**
 - 📫 How to reach me: **iamlovely.dev@gmail.com**
 - 📝 I am a B.Tech Computer Science & Engineering graduate from University Institute of Engineering & Technology, Maharshi Dayanand University, Rohtak 
-- 💬 Ask me about anything, I am happy to help  
+- 💬 Feel free to reach out for assistance; I'm eager to share my knowledge and expertise in web development and cybersecurity. 
 - ![Profile views](https://komarev.com/ghpvc/?username=LovelyBika&label=Profile%20views&color=brightgreen&style=plastic)
   ![GitHub followers](https://img.shields.io/github/followers/LovelyBika?label=Followers&style=social)
 
